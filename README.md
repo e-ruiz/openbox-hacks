@@ -11,8 +11,9 @@ https://paulodev.com.br/en/blog/linux/78-keybindings-to-positioning-windows-in-l
 
 
 # Window control shortcuts - Cookbook
+Note that: "Super" means that button with a window flag on your keyboard, sometimes called "WinKey" ***xD***
 
-## General
+## General window tricks
 Super+return/enter: Toggle between maximized and last state  
 
 Super+0: Centralized 75% x 65%
