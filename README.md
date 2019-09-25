@@ -7,6 +7,8 @@ http://openbox.org/
 
 http://openbox.org/wiki/Help:Actions
 
+https://wiki.debian.org/Openbox
+
 https://paulodev.com.br/en/blog/linux/78-keybindings-to-positioning-windows-in-lxde-and-openbox
 
 
